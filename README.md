@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Aymane!
+- 👀 I’m interested in Full-Stack development
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Web Applications.
+- 📫 Reach me via email: itsmeaymane@gmail.com
